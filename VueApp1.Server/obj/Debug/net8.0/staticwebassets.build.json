@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "RQVRc5R+WWnUOcA2aC4WuhuirV3lbQRVFPjlqJErh2w=",
+  "Source": "VueApp1.Server",
+  "BasePath": "_content/VueApp1.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\A336.ADS\\source\\repos\\VueApp1\\vueapp1.client\\vueapp1.client.esproj",
+      "Version": 2,
+      "Source": "vueapp1.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
